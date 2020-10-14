@@ -31,7 +31,7 @@ function App() {
       </Layout>
 
       <Drawer
-        title="プロジェクトの主な機能"
+        title="Main functions of the Project"
         width={600}
         closable={true}
         onClose={onClose}
@@ -57,7 +57,7 @@ function App() {
           );
         })}
         <Text style={{ textAlign: "left", fontSize: 20 }}>
-          以上です。見てくれてありがとう　ございます。
+         End. Thanks for watching.
         </Text>
       </Drawer>
 

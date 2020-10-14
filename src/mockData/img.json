@@ -3,36 +3,36 @@
     "url": "text2",
     "w": 300,
     "h": 140,
-    "text": "React Hooks と Ant-Designライブラリ を使用して やりました。"
+    "text": "I did it using React Hooks and the Ant-Design library."
   },
   {
     "url": "text3",
     "w": 300,
     "h": 350,
-    "text": "Function CRUD と Reduxで ショッピングカートの管理 の satete に 使用しています。"
+    "text": "I'm using it for shopping cart management state in Function CRUD and Redux."
   },
   {
     "url": "text4",
     "w": 400,
     "h": 250,
-    "text": "ショッピングカート にとって　商品数の増減、商品の削除が可能です。"
+    "text": "For shopping carts, it is possible to increase or decrease the number of products and delete products."
   },
   {
     "url": "text5",
     "w": 535,
     "h": 80,
-    "text": "また、商品が2つ以上ある場合は、名前、数量、価格で並べ替えることができます。"
+    "text": "Also, if you have more than one item, you can sort by name, quantity, and price."
   },
   {
     "url": "text6",
     "w": 535,
     "h": 80,
-    "text": "ページネーションを実装する"
+    "text": "Implement pagination."
   },
   {
     "url": "text7",
     "w": 480,
     "h": 270,
-    "text": "カートに商品がない場合は通知されます　、反対に　お支払い前の確認通です。"
+    "text": "If there are no items in the cart, you will be notified, on the contrary, it is a confirmation before payment."
   }
 ]
