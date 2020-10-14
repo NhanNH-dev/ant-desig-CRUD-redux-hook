@@ -1,0 +1,28 @@
+@import "~antd/dist/antd.less";
+.cartModal {
+  width: 800px !important;
+  max-width: 800px;
+  .ant-modal-body {
+    padding-bottom: 0 !important;
+  }
+  .set_title_total_price {
+    text-align: right;
+  }
+  .add_img_empty_cart {
+    .ant-empty-img-simple {
+      display: none;
+    }
+    .ant-empty.ant-empty-normal {
+      margin: 0 !important;
+      .ant-empty-image {
+        margin: 0 auto;
+        background-image: url(../../assets/empty-cart.png);
+        height: 120px; /* You must set a specified height */
+        width: 200px;
+        background-position: center; /* Center the image */
+        background-repeat: no-repeat; /* Do not repeat the image */
+        background-size: cover;
+      }
+    }
+  }
+}
